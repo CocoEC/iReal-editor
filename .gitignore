@@ -1,0 +1,7 @@
+# Client app
+ClientApp/node_modules
+ClientApp/build
+
+# .NET stuff
+bin
+obj
