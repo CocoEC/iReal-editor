@@ -1,13 +1,10 @@
 # iReal-editor
 A web viewer/editor for iRealPro chord charts.
 
+> [!NOTE]
+> It does not work yet.
+
 This project is a web application built using ASP.NET for the backend and React for the frontend. Below are the instructions for setting up and running the project.
-
-## Project Structure
-
-```
-TODO
-```
 
 ## Getting Started
 
@@ -67,3 +64,12 @@ To remove installed frontend dependencies:
 ```bash
 rm -rf ClientApp/node_modules
 ```
+
+## Roadmap
+
+- [] Implement a placeholder song editor
+- [] Implement a way to open iRealPro HTML files
+- [] Implement a way to export iRealPro HTML files
+
+> [!Note]
+> This project is not affiliated or related to iRealPro.
