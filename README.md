@@ -67,9 +67,9 @@ rm -rf ClientApp/node_modules
 
 ## Roadmap
 
-- [] Implement a placeholder song editor
-- [] Implement a way to open iRealPro HTML files
-- [] Implement a way to export iRealPro HTML files
+- [ ] Implement a placeholder song editor
+- [ ] Implement a way to open iRealPro HTML files
+- [ ] Implement a way to export iRealPro HTML files
 
 > [!Note]
 > This project is not affiliated or related to iRealPro.
